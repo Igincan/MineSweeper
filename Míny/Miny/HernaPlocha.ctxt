@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=pocetX\ pocetY\ pocetMin\ velkost
+comment0.target=HernaPlocha(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Kon\u0161truktor\ in\u0161tancie,\ kde\ definujeme\ atrib\u00FAty,\ ktor\u00FD\ z\u00E1rove\u0148\ generuje\ \u010Do\ sa\ bude\ pod\ jednotliv\u00FDmi\r\n\ pol\u00ED\u010Dkami\ nach\u00E1dza\u0165.\r\n\ @param\ pocetX\ po\u010Det\ st\u013Apcov\ hernej\ plochy\r\n\ @param\ pocetY\ po\u010Det\ riadkov\ hernej\ plochy\r\n\ @param\ pocetMin\ po\u010Det\ m\u00EDn\ ukryt\u00FDch\ v\ hernej\ ploche\r\n\ @param\ velkost\ premenn\u00E1\ pod\u013Ea\ ktorej\ sa\ ur\u010Duje\ ve\u013Ekost\ objektov\r\n
+comment1.params=
+comment1.target=void\ vypni()
+comment1.text=\r\n\ Met\u00F3da,\ ktor\u00E1\ vyp\u00EDna\ hru.\r\n
+comment2.params=poziciaX\ poziciaY
+comment2.target=void\ odkryPolicko(int,\ int)
+comment2.text=\r\n\ Met\u00F3da\ in\u0161tancie,\ ktor\u00E1\ odkr\u00FDva\ pol\u00ED\u010Dko\ pod\u013Ea\ zadan\u00FDch\ s\u00FAradn\u00EDc\ a\ zis\u0165uje\ v\u00FDhru,\ \u010Di\ prehru\ hr\u00E1\u010Da.\r\n\ @param\ poziciaX\ x-ov\u00E1\ s\u00FAradnica\ odkr\u00FDvan\u00E9ho\ pol\u00ED\u010Dka\r\n\ @param\ poziciaY\ y-ov\u00E1\ s\u00FAradnica\ odkr\u00FDvan\u00E9ho\ pol\u00ED\u010Dka\r\n
+comment3.params=poziciaX\ poziciaY
+comment3.target=void\ oznacPolicko(int,\ int)
+comment3.text=\r\n\ Met\u00F3da\ in\u0161tancie,\ ktor\u00E1\ ozna\u010Duje\ alebo\ odzna\u010Duje\ pol\u00ED\u010Dko\ pod\u013Ea\ zadan\u00FDch\ s\u00FAradn\u00EDc.\r\n\ @param\ poziciaX\ x-ov\u00E1\ s\u00FAradnica\ ozna\u010Dovan\u00E9ho\ pol\u00ED\u010Dka\r\n\ @param\ poziciaY\ y-ov\u00E1\ s\u00FAradnica\ ozna\u010Dovan\u00E9ho\ pol\u00ED\u010Dka\r\n
+comment4.params=poziciaX\ poziciaY
+comment4.target=void\ schovajMinuDoPolicka(int,\ int)
+comment4.text=\r\n\ Met\u00F3da\ in\u0161tancie,\ ktor\u00E1\ skr\u00FDva\ m\u00EDnu\ do\ pol\u00ED\u010Dka\ pod\u013Ea\ zadan\u00FDch\ s\u00FAradn\u00EDc.\r\n\ @param\ poziciaX\ x-ov\u00E1\ s\u00FAradnica\ pol\u00ED\u010Dka\ do\ ktor\u00E9ho\ sa\ skr\u00FDva\ m\u00EDna\r\n\ @param\ poziciaY\ y-ov\u00E1\ s\u00FAradnica\ pol\u00ED\u010Dka\ do\ ktor\u00E9ho\ sa\ skr\u00FDva\ m\u00EDna\r\n
+comment5.params=
+comment5.target=StavHry\ getStavHry()
+comment5.text=\r\n\ Met\u00F3da\ in\u0161tancie,\ ktor\u00E1\ vracia\ moment\u00E1lny\ stav\ hry.\ (v\u00FDhra,\ prehra,\ nedohran\u00E9)\r\n
+comment6.params=poziciaX\ poziciaY
+comment6.target=int\ getPocetMinVPolicku(int,\ int)
+comment6.text=\r\n\ Met\u00F3da\ in\u0161tancie,\ ktor\u00E1\ vracia\ po\u010Det\ m\u00EDn\ v\ pol\u00ED\u010Dku\ pod\u013Ea\ zadan\u00FDch\ s\u00FAradn\u00EDc.\r\n\ @param\ poziciaX\ x-ov\u00E1\ s\u00FAradnica\ dan\u00E9ho\ pol\u00ED\u010Dka\r\n\ @param\ poziciaY\ y-ov\u00E1\ s\u00FAradnica\ dan\u00E9ho\ pol\u00ED\u010Dka\r\n
+numComments=7

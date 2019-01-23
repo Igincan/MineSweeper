@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y\ cislo\ velkost
+comment0.target=Cislica(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Kon\u0161truktor,\ kde\ sa\ inicializuj\u00FA\ atrib\u00FAty,\r\n
+comment1.params=
+comment1.target=void\ vypni()
+comment1.text=\r\n\ Met\u00F3da,\ ktor\u00E1\ vyp\u00EDna\ hru.\r\n
+comment2.params=
+comment2.target=void\ zobraz()
+comment2.text=\r\n\ Met\u00F3da,\ ktor\u00E1\ zobrazuje\ \u010D\u00EDlicu.\r\n
+numComments=3

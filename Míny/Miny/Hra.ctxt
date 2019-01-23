@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=obtiaznost\ aplikacia
+comment0.target=Hra(Obtiaznost,\ Aplikacia)
+comment0.text=\r\n\ Kon\u0161truktor,\ kde\ sa\ inizializuj\u00FA\ atrib\u00FAty.\r\n\ @param\ obtiaznost\ in\u0161tancia\ ktor\u00E1\ ur\u010Duje\ ve\u013Ekos\u0165\ hracieho\ pola\ a\ po\u010Det\ m\u00EDn\ v\ \u0148om\ ukryt\u00FDch\r\n
+comment1.params=
+comment1.target=void\ vypni()
+comment1.text=\r\n\ Met\u00F3da,\ ktor\u00E1\ vyp\u00EDna\ hru.\r\n
+comment2.params=x\ y
+comment2.target=void\ vyberSuradnice(int,\ int)
+comment2.text=\r\n\ Met\u00F3da,\ ktor\u00E1\ odkr\u00FDva\ pol\u00ED\u010Dko\ na\ hernej\ ploche\ pod\u013Ea\ polohy\ my\u0161i.\r\n
+comment3.params=x\ y
+comment3.target=void\ vyberDruheSuradnice(int,\ int)
+comment3.text=\r\n\ Met\u00F3da,\ ktor\u00E1\ ozna\u010Duje\ pol\u00ED\u010Dko\ na\ hernej\ ploche\ pod\u013Ea\ polohy\ my\u0161i.\r\n
+numComments=4

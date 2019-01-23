@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y\ typ\ velkost
+comment0.target=Segment(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Kon\u0161truktor,\ kde\ sa\ inicializuj\u00FA\ atrib\u00FAty.\r\n
+comment1.params=
+comment1.target=void\ zviditelni()
+comment1.text=\r\n\ Met\u00F3da,\ ktor\u00E1\ zvidite\u013En\u00ED\ segment.\r\n
+comment2.params=
+comment2.target=void\ zneviditelni()
+comment2.text=\r\n\ Met\u00F3da,\ ktor\u00E1\ znevidite\u013En\u00ED\ segment.\r\n
+comment3.params=
+comment3.target=void\ vypni()
+comment3.text=\r\n\ Met\u00F3da,\ ktor\u00E1\ vyp\u00EDna\ hru.\r\n
+comment4.params=x\ y\ sirka\ vyska\ farba
+comment4.target=Obdlznik\ vytvorObdlznik(int,\ int,\ int,\ int,\ java.lang.String)
+comment4.text=\r\n\ Met\u00F3da,\ ktor\u00E1\ vytv\u00E1ra\ in\u015Btanciu\ typu\ Obdlznik.\r\n
+numComments=5
